@@ -26,8 +26,8 @@ A Python-based solution to the **combo finder problem** by PSRANA — the goal i
 
     Clone the repository:
 
-git clone https://github.com/Sachin0P/combo_finder.git
-cd combo_finder
+    git clone https://github.com/Sachin0P/combo_finder.git
+    cd combo_finder
 
 Open the notebook:
 
