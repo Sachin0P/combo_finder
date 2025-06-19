@@ -9,7 +9,7 @@ A Python-based solution to the **combo finder problem** by PSRANA — the goal i
 **Find all combinations of products** from a given list where the total sum of selected product prices falls within the range of **290 to 310** (inclusive).
 
 ### Product List Used:
-    ```python
+    `
     ProductList = {'p1': 70, 'p2': 80, 'p3': 90, 'p4': 100, 'p5': 110, 'p6': 120, 'p7': 130}
 
 🛠 Technologies Used
